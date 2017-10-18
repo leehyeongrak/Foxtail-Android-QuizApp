@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="question_likelion">멋사는 멋지다</string>
+    <string name="question_foxtail">팍스테일은 일요일에 한다</string>
+    <string name="question_naver">네이버 가고싶다</string>
+
+    <string name="text_true">정답입니다</string>
+    <string name="text_false">노답입니다</string>
+</resources>
